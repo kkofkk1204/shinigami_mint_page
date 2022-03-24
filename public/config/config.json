@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2ab81b2630d53d3e448223acc1388d707eb28094",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2ab81b2630d53d3e448223acc1388d707eb28094",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "kk1204_test_v1",
+  "SYMBOL": "kk1204_test_v1",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 500000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/shinigami-t1-v2-v4",
+  "SHOW_BACKGROUND": true
+}
